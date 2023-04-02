@@ -6,6 +6,8 @@ int main()
     printf("tawrat\n");
     printf("ruhi\n");
     printf("trp\n");
+    printf("hello world");
+    printf("you are a pro coder");
 /*int value,number;
     scanf("%d",&value);
     if(value<0)
